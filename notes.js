@@ -1,7 +1,7 @@
 fs = require('fs')
 const chalk = require('chalk')
 const note = function(){
-    return 'I Love you Panshul'
+    return 'Hello World'
 }
 
 const readNote = function(title){
